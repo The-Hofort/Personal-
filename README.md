@@ -1,2 +1,7 @@
 # Personal-
-I am from Russia, actively studying programming. This is my repository for questions and trial projects.
+ language JavaScript
+ let obj = { name: john, age: 30};
+ name.admin = true;
+ for(let key in name) {
+ alert(key);
+ }
